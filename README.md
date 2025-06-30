@@ -210,15 +210,3 @@ git push origin <feature-name>
 This project is licensed under the MIT License.
 
 ---
-
-## Support the Project
-
-If you like my work and want to show your support, you can buy me a coffee or make a donation! ☕
-
-Send your donations to the following wallet address:
-
-**Bitcoin Address:**
-```
-1JSHP87RKNg2okh1Bx7PrfdghHdQBrsBj1
-```
-Thanks for your support! 🙏
